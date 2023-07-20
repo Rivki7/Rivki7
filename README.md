@@ -1,5 +1,4 @@
-# Hi there! 👋 Welcome to my GitHub! 
-
+# Hi there! 👋 I'm Rivki Zohar
 
 ### Let's Connect!
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rivkizohar/)
