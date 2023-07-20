@@ -2,10 +2,9 @@
 ![image](https://github.com/Rivki7/Rivki7/assets/117110504/63d159f1-e95e-4c26-931d-001fb2fc1b90)
 
 
-My passion lies in learning, exploring and writing code. 💻  
+My passion lies in learning, exploring and writing code. 💻      
 Since the day I wrote my first "Hello World!" and discovered the world of web development I have been hooked. 🤩
  
- - 🔭 I’m currently working on being an expert in JavaScript. 
 
 
 
