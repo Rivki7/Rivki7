@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rivkizohar/)
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c#,codepen,discord,dotnet,postman,vscode)](https://skillicons.dev)
 <!--
 **Rivki7/Rivki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
