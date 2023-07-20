@@ -3,7 +3,7 @@
 
 ### Let's Connect!
 linkedin
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rivkizohar/)
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c#)](https://skillicons.dev)
