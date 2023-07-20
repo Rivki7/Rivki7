@@ -2,7 +2,6 @@
 
 
 ### Let's Connect!
-linkedin
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rivkizohar/)
 
 ## Languages and Tools
