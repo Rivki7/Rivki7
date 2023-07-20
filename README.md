@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there! 👋 Welcome to my GitHub! 
 
+
+### Let's Connect!
+
+
+## Languages and Tools
 <!--
 **Rivki7/Rivki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
