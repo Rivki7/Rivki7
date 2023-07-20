@@ -1,5 +1,7 @@
   # Hi there! 👋 I'm Rivki Zohar
-  <iframe src="https://giphy.com/embed/3pZipqyo1sqHDfJGtz" width="480" height="405" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sesamestreet-3pZipqyo1sqHDfJGtz">via GIPHY</a></p>
+![image](https://github.com/Rivki7/Rivki7/assets/117110504/63d159f1-e95e-4c26-931d-001fb2fc1b90)
+
+
 My passion lies in learning, exploring and writing code. 💻  
 Since the day I wrote my first "Hello World!" and discovered the world of web development I have been hooked. 🤩
  
