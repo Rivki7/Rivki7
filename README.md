@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rivki Zohar
+<div style="text-align: center; "> # Hi there! 👋 I'm Rivki Zohar </div>
 
 ### Let's Connect!
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rivkizohar/)
