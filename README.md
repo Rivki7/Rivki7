@@ -1,5 +1,4 @@
   # Hi there! 👋 I'm Rivki Zohar
-![image](https://github.com/Rivki7/Rivki7/assets/117110504/63d159f1-e95e-4c26-931d-001fb2fc1b90)
 ![image](https://github.com/Rivki7/Rivki7/assets/117110504/47e6e0e9-e338-4b84-a0b4-12c181e7b5a8)
 
 
