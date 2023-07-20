@@ -1,5 +1,4 @@
   # Hi there! 👋 I'm Rivki Zohar
-<h3 style="text-align: center;">Hi there! 👋 I'm Rivki Zohar</h3>
 
 
 
