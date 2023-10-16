@@ -14,7 +14,7 @@ Since the day I wrote my first "Hello World!" and discovered the world of web de
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c#)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=codepen,discord,dotnet,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=codepen,discord,dotnet,postman,vscode,visualstudio)](https://skillicons.dev)
 
 <!--
 **Rivki7/Rivki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
