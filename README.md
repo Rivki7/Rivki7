@@ -13,8 +13,8 @@ Since the day I wrote my first "Hello World!" and discovered the world of web de
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rivkizohar/)
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,nodejs,express,cs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=codepen,discord,dotnet,postman,vscode,visualstudio,mongodb,prisma,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,nodejs,express,cs,mui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=codepen,discord,dotnet,postman,vscode,visualstudio,mongodb,prisma,mysql,nest)](https://skillicons.dev)
 
 <!--
 **Rivki7/Rivki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
